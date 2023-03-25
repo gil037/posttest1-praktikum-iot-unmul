@@ -23,3 +23,5 @@ Rangkaian ini sangat sederhana dan mudah dipahami oleh pemula dalam bidang elekt
 <p>
 <img src="https://github.com/gil037/posttest1-praktikum-iot-unmul/blob/main/gambar%20Board/board%20scematic.png?raw=true" height="500rm">
 
+
+Link Video Presentasi https://drive.google.com/file/d/1w2UFcBx3M7WgpKGC1YA2m1eZI964DeM8/view?usp=share_link
