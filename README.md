@@ -20,4 +20,6 @@ Fungsi utama rangkaian ini adalah untuk mengatur kecerahan lampu dan nada buzzer
 
 Rangkaian ini sangat sederhana dan mudah dipahami oleh pemula dalam bidang elektronika. Namun, meskipun sederhana, rangkaian ini sangat berguna dan sering digunakan dalam berbagai aplikasi elektronik seperti alarm, lampu emergency, dan lain sebagainya.
 
+<p>
+<img src="https://drive.google.com/file/d/1M5vA3luG1V7SftKX70hf64As1trs48xV/view?usp=share_link" height="500rm">
 
