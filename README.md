@@ -21,5 +21,5 @@ Fungsi utama rangkaian ini adalah untuk mengatur kecerahan lampu dan nada buzzer
 Rangkaian ini sangat sederhana dan mudah dipahami oleh pemula dalam bidang elektronika. Namun, meskipun sederhana, rangkaian ini sangat berguna dan sering digunakan dalam berbagai aplikasi elektronik seperti alarm, lampu emergency, dan lain sebagainya.
 
 <p>
-<img src="https://github.com/gil037/posttest1-praktikum-iot-unmul/blob/main/board%20scematic.png?raw=true" height="500rm">
+<img src="https://github.com/gil037/posttest1-praktikum-iot-unmul/blob/main/gambar%20Board/board%20scematic.png?raw=true" height="500rm">
 
